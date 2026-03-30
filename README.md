@@ -4,4 +4,4 @@ PREVIEW:
 
 ![preview](https://i.imgur.com/oRzx06q.gif)
 
-Updates evrey 10 secs but you adjust that here ```[LINE 12] CHECK_INTERVAL = 10```
+Updates evrey 10 secs but you can adjust that here ```[LINE 12] CHECK_INTERVAL = 10```
